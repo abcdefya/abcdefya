@@ -269,7 +269,8 @@ For Document Processing
 <tr>
 <td align="center" width="100%">
 
-<img src="https://img.icons8.com/3d-fluency/94/graduation-cap.png" width="100"/>
+<img src="./hust_logo.png" width="100"/>
+
 
 ### **Hanoi University of Science and Technology (HUST)**
 
