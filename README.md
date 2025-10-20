@@ -58,6 +58,42 @@
 <br>
 
 <div align="center">
+## 📊 GITHUB STATISTICS
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abcdefya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=4158D0&icon_color=C850C0&text_color=fff&border_radius=10" alt="GitHub Stats" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcdefya&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=4158D0&text_color=fff&border_radius=10" alt="Top Languages" height="200"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abcdefya&theme=radical&hide_border=true&background=0d1117&ring=4158D0&fire=C850C0&currStreakLabel=fff&border_radius=10" alt="GitHub Streak" width="700"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abcdefya&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=4158D0&line=C850C0&point=FFCC70&border_radius=10" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
 
 ## 🌟 EXPERTISE HIGHLIGHTS
 
@@ -615,42 +651,6 @@ Sep 2024 – Dec 2024
 
 <div align="center">
 
-## 📊 GITHUB STATISTICS
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abcdefya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=4158D0&icon_color=C850C0&text_color=fff&border_radius=10" alt="GitHub Stats" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcdefya&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=4158D0&text_color=fff&border_radius=10" alt="Top Languages" height="200"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abcdefya&theme=radical&hide_border=true&background=0d1117&ring=4158D0&fire=C850C0&currStreakLabel=fff&border_radius=10" alt="GitHub Streak" width="700"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abcdefya&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=4158D0&line=C850C0&point=FFCC70&border_radius=10" alt="Contribution Graph" width="95%"/>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
 
 ## 🏅 CERTIFICATIONS & ACHIEVEMENTS
 
