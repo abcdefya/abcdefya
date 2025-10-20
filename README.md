@@ -780,7 +780,6 @@ Quick learner of new technologies and frameworks
 [![Email](https://img.shields.io/badge/Email-anh.dothe47@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anh.dothe47@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-do--the--anh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/do-the-anh-090737286)
 [![GitHub](https://img.shields.io/badge/GitHub-abcdefya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abcdefya)
-[![Phone](https://img.shields.io/badge/Phone-0338272747-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+84338272747)
 
 <br>
 
