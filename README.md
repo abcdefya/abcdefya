@@ -9,7 +9,8 @@
 [![Email](https://img.shields.io/badge/📧-anh.dothe47@gmail.com-D14836?style=for-the-badge&logoColor=white)](mailto:anh.dothe47@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/do-the-anh-090737286)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abcdefya)
-[![Location](https://img.shields.io/badge/📍-Hanoi%2C_Vietnam-FF6B6B?style=for-the-badge)](https://maps.google.com/?q=Hanoi,Vietnam)
+[![Location](https://img.shields.io/badge/📍-DakLak/Hanoi%2C_Vietnam-FF6B6B?style=for-the-badge)](https://maps.google.com/?q=DakLak/Hanoi,Vietnam)
+
 
 </div>
 
