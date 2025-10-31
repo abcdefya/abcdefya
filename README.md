@@ -75,11 +75,11 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abcdefya&theme=radical&hide_border=true&background=0d1117&ring=4158D0&fire=C850C0&currStreakLabel=fff&border_radius=10" alt="GitHub Streak" width="700"/>
 
-</div>
+</div> -->
 
 <br>
 
