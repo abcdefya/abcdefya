@@ -242,67 +242,6 @@ Applied ML projects with real-world datasets • End-to-end model deployment •
 
 <div align="center">
 
-
-## 🏅 CERTIFICATIONS & ACHIEVEMENTS
-
-</div>
-
-<br>
-
-<table align="center" width="90%">
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.icons8.com/3d-fluency/94/language.png" width="90"/>
-
-### **Language Proficiency**
-
-<br>
-
-**TOEIC Score: 750**
-
-Advanced English proficiency for technical communication  
-Strong skills in documentation and presentations  
-Effective collaboration in international teams
-
-<br>
-
-**Vietnamese:** Native Speaker  
-**English:** Advanced (Professional Working Proficiency)
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.icons8.com/3d-fluency/94/test-passed.png" width="90"/>
-
-### **Professional Skills**
-
-<br>
-
-**Problem-Solving**  
-Optimized models and algorithms in multiple projects
-
-**Teamwork**  
-Collaborative work experience during internship
-
-**Communication**  
-Clear technical documentation and presentations
-
-**Adaptability**  
-Quick learner of new technologies and frameworks
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
 ## 💡 CURRENT FOCUS
 
 </div>
