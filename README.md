@@ -43,7 +43,7 @@
 <br>
 
 *Motivated AI/ML Engineer with hands-on expertise in machine learning, deep learning, and generative AI.*  
-*Proven track record in building scalable AI systems, achieving 98% accuracy in intrusion detection,*  
+*Proven track record in building scalable AI systems, *  
 *and deploying production-ready models with PyTorch, TensorFlow, and AWS.*
 
 </td>
