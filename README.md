@@ -57,20 +57,20 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   
 ## 📊 GITHUB STATISTICS
 
-</div>
+</div> -->
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=abcdefya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=4158D0&icon_color=C850C0&text_color=fff&border_radius=10" alt="GitHub Stats" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcdefya&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=4158D0&text_color=fff&border_radius=10" alt="Top Languages" height="200"/>
 
-</div>
+</div> -->
 
 <br>
 
