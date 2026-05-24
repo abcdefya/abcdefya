@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/📧-anh.dothe47@gmail.com-D14836?style=for-the-badge&logoColor=white)](mailto:anh.dothe47@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/do-the-anh-090737286)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abcdefya)
-[![Location](https://img.shields.io/badge/📍-DakLak/Hanoi%2C_Vietnam-FF6B6B?style=for-the-badge)](https://maps.google.com/?q=DakLak/Hanoi,Vietnam)
+[![Location](https://img.shields.io/badge/📍-DakLak/HCM%2C_Vietnam-FF6B6B?style=for-the-badge)](https://maps.google.com/?q=DakLak/HCM,Vietnam)
 
 
 </div>
@@ -38,7 +38,7 @@
 
 **AI/ML Engineer** | **Deep Learning Specialist** | **MLOps Practitioner**
 
-📍 Hanoi, Vietnam • 🎓 HUST Mathematics & Informatics (2025)
+📍 HCM, Vietnam • 🎓 HUST Mathematics & Informatics (2025)
 
 <br>
 
@@ -107,7 +107,7 @@
 <img src="./hust_logo.png" width="100"/>
 
 
-### **Hanoi University of Science and Technology (HUST)**
+### **HCM University of Science and Technology (HUST)**
 
 **Bachelor of Science in Mathematics and Informatics**  
 📅 **2021 – 2025** (Expected Graduation)
