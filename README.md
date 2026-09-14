@@ -107,7 +107,7 @@
 <img src="./hust_logo.png" width="100"/>
 
 
-### **HCM University of Science and Technology (HUST)**
+### **HN University of Science and Technology (HUST)**
 
 **Bachelor of Science in Mathematics and Informatics**  
 📅 **2021 – 2025** (Expected Graduation)
